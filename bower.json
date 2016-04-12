@@ -1,0 +1,20 @@
+{
+  "name": "architecture",
+  "description": "Demo app",
+  "main": "index.js",
+  "authors": [
+    "Jeffrey de Graaf <info@jeffreydegraaf.nl>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation-sites": "^6.2.1"
+  }
+}

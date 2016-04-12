@@ -1,0 +1,14 @@
+@import 'variables';
+
+.product {
+  padding: rem-calc(30px);
+  background: $red;
+
+  .title {
+    font-size: rem-calc(40);
+  }
+
+  p {
+    color: white;
+  }
+}

@@ -1,0 +1,18 @@
+.component {
+  background: green;
+
+  .title {
+    margin: rem-calc(100px);
+    font-weight: bold;
+  }
+
+  .article {
+    h1 {
+      color: red;
+    }
+
+    p {
+      color: #333;
+    }
+  }
+}
