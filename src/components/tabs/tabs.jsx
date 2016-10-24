@@ -32,3 +32,5 @@ class Tabs extends React.Component {
 }
 
 ReactDOM.render(<Tabs />, document.getElementById('tabs'));
+ReactDOM.render(<Tabs />, document.getElementById('tabs2'));
+ReactDOM.render(<Tabs />, document.getElementById('tabs3'));
